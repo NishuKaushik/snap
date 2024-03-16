@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .body{
+       
+        background-color: rgb(136, 210, 136);
+    }
+    .container {
+        color: #003E29;
+        text-align: center;
+        position:absolute;
+        top:50%;
+        left:50%;
+        transform:translate(-50%,-50%);
+        
+
+    }
+    
+    
+
+  
+    
+
+
+
+
+    
+    
+
+</style>
+<body>
+    <div class="container">
+    <pre><p>10TH SEPTEMBER 2023 IS</p></pre>
+
+        <pre><h1>World Suicide
+                 Prevention</h1></pre>
+        
+
+    
+                 
+        
+    </div>
